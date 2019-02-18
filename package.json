@@ -1,0 +1,26 @@
+{
+  "name": "vue2-cli-obj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.5.21",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "mysql": "^2.13.0",
+    "vue-lazyload": "^1.0.3",
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.3.0",
+    "@vue/cli-service": "^3.3.0",
+    "axios": "^0.18.0",
+    "vue-concise-slider": "^3.3.8",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
